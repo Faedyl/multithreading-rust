@@ -1,0 +1,1000 @@
+Baris 0001: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0002: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0003: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0004: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0005: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0006: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0007: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0008: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0009: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0010: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0011: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0012: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0013: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0014: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0015: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0016: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0017: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0018: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0019: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0020: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0021: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0022: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0023: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0024: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0025: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0026: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0027: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0028: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0029: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0030: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0031: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0032: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0033: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0034: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0035: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0036: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0037: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0038: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0039: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0040: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0041: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0042: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0043: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0044: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0045: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0046: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0047: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0048: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0049: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0050: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0051: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0052: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0053: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0054: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0055: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0056: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0057: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0058: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0059: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0060: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0061: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0062: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0063: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0064: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0065: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0066: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0067: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0068: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0069: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0070: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0071: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0072: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0073: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0074: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0075: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0076: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0077: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0078: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0079: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0080: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0081: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0082: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0083: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0084: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0085: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0086: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0087: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0088: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0089: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0090: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0091: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0092: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0093: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0094: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0095: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0096: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0097: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0098: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0099: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0100: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0101: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0102: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0103: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0104: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0105: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0106: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0107: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0108: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0109: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0110: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0111: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0112: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0113: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0114: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0115: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0116: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0117: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0118: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0119: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0120: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0121: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0122: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0123: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0124: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0125: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0126: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0127: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0128: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0129: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0130: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0131: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0132: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0133: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0134: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0135: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0136: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0137: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0138: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0139: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0140: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0141: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0142: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0143: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0144: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0145: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0146: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0147: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0148: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0149: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0150: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0151: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0152: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0153: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0154: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0155: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0156: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0157: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0158: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0159: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0160: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0161: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0162: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0163: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0164: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0165: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0166: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0167: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0168: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0169: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0170: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0171: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0172: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0173: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0174: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0175: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0176: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0177: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0178: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0179: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0180: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0181: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0182: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0183: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0184: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0185: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0186: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0187: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0188: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0189: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0190: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0191: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0192: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0193: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0194: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0195: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0196: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0197: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0198: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0199: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0200: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0201: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0202: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0203: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0204: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0205: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0206: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0207: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0208: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0209: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0210: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0211: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0212: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0213: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0214: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0215: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0216: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0217: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0218: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0219: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0220: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0221: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0222: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0223: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0224: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0225: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0226: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0227: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0228: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0229: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0230: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0231: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0232: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0233: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0234: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0235: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0236: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0237: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0238: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0239: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0240: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0241: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0242: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0243: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0244: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0245: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0246: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0247: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0248: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0249: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0250: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0251: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0252: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0253: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0254: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0255: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0256: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0257: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0258: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0259: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0260: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0261: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0262: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0263: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0264: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0265: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0266: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0267: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0268: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0269: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0270: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0271: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0272: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0273: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0274: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0275: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0276: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0277: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0278: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0279: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0280: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0281: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0282: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0283: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0284: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0285: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0286: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0287: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0288: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0289: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0290: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0291: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0292: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0293: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0294: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0295: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0296: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0297: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0298: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0299: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0300: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0301: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0302: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0303: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0304: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0305: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0306: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0307: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0308: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0309: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0310: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0311: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0312: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0313: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0314: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0315: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0316: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0317: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0318: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0319: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0320: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0321: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0322: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0323: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0324: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0325: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0326: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0327: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0328: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0329: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0330: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0331: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0332: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0333: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0334: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0335: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0336: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0337: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0338: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0339: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0340: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0341: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0342: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0343: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0344: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0345: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0346: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0347: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0348: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0349: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0350: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0351: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0352: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0353: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0354: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0355: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0356: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0357: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0358: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0359: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0360: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0361: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0362: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0363: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0364: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0365: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0366: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0367: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0368: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0369: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0370: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0371: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0372: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0373: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0374: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0375: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0376: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0377: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0378: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0379: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0380: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0381: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0382: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0383: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0384: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0385: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0386: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0387: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0388: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0389: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0390: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0391: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0392: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0393: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0394: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0395: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0396: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0397: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0398: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0399: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0400: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0401: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0402: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0403: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0404: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0405: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0406: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0407: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0408: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0409: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0410: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0411: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0412: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0413: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0414: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0415: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0416: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0417: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0418: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0419: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0420: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0421: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0422: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0423: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0424: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0425: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0426: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0427: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0428: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0429: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0430: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0431: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0432: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0433: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0434: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0435: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0436: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0437: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0438: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0439: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0440: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0441: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0442: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0443: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0444: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0445: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0446: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0447: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0448: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0449: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0450: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0451: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0452: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0453: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0454: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0455: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0456: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0457: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0458: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0459: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0460: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0461: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0462: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0463: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0464: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0465: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0466: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0467: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0468: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0469: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0470: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0471: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0472: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0473: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0474: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0475: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0476: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0477: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0478: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0479: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0480: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0481: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0482: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0483: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0484: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0485: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0486: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0487: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0488: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0489: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0490: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0491: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0492: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0493: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0494: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0495: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0496: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0497: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0498: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0499: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0500: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0501: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0502: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0503: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0504: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0505: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0506: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0507: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0508: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0509: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0510: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0511: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0512: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0513: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0514: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0515: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0516: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0517: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0518: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0519: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0520: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0521: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0522: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0523: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0524: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0525: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0526: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0527: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0528: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0529: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0530: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0531: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0532: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0533: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0534: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0535: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0536: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0537: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0538: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0539: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0540: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0541: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0542: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0543: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0544: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0545: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0546: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0547: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0548: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0549: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0550: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0551: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0552: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0553: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0554: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0555: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0556: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0557: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0558: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0559: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0560: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0561: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0562: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0563: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0564: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0565: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0566: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0567: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0568: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0569: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0570: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0571: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0572: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0573: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0574: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0575: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0576: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0577: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0578: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0579: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0580: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0581: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0582: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0583: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0584: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0585: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0586: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0587: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0588: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0589: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0590: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0591: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0592: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0593: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0594: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0595: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0596: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0597: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0598: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0599: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0600: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0601: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0602: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0603: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0604: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0605: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0606: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0607: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0608: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0609: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0610: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0611: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0612: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0613: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0614: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0615: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0616: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0617: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0618: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0619: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0620: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0621: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0622: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0623: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0624: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0625: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0626: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0627: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0628: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0629: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0630: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0631: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0632: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0633: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0634: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0635: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0636: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0637: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0638: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0639: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0640: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0641: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0642: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0643: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0644: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0645: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0646: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0647: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0648: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0649: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0650: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0651: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0652: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0653: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0654: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0655: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0656: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0657: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0658: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0659: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0660: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0661: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0662: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0663: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0664: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0665: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0666: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0667: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0668: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0669: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0670: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0671: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0672: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0673: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0674: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0675: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0676: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0677: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0678: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0679: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0680: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0681: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0682: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0683: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0684: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0685: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0686: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0687: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0688: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0689: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0690: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0691: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0692: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0693: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0694: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0695: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0696: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0697: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0698: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0699: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0700: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0701: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0702: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0703: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0704: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0705: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0706: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0707: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0708: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0709: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0710: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0711: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0712: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0713: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0714: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0715: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0716: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0717: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0718: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0719: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0720: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0721: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0722: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0723: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0724: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0725: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0726: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0727: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0728: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0729: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0730: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0731: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0732: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0733: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0734: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0735: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0736: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0737: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0738: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0739: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0740: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0741: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0742: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0743: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0744: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0745: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0746: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0747: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0748: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0749: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0750: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0751: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0752: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0753: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0754: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0755: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0756: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0757: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0758: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0759: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0760: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0761: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0762: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0763: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0764: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0765: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0766: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0767: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0768: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0769: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0770: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0771: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0772: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0773: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0774: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0775: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0776: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0777: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0778: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0779: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0780: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0781: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0782: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0783: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0784: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0785: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0786: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0787: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0788: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0789: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0790: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0791: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0792: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0793: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0794: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0795: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0796: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0797: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0798: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0799: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0800: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0801: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0802: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0803: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0804: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0805: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0806: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0807: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0808: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0809: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0810: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0811: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0812: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0813: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0814: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0815: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0816: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0817: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0818: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0819: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0820: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0821: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0822: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0823: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0824: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0825: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0826: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0827: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0828: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0829: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0830: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0831: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0832: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0833: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0834: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0835: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0836: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0837: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0838: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0839: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0840: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0841: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0842: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0843: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0844: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0845: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0846: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0847: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0848: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0849: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0850: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0851: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0852: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0853: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0854: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0855: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0856: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0857: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0858: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0859: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0860: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0861: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0862: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0863: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0864: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0865: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0866: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0867: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0868: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0869: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0870: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0871: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0872: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0873: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0874: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0875: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0876: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0877: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0878: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0879: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0880: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0881: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0882: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0883: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0884: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0885: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0886: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0887: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0888: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0889: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0890: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0891: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0892: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0893: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0894: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0895: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0896: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0897: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0898: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0899: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0900: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0901: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0902: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0903: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0904: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0905: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0906: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0907: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0908: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0909: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0910: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0911: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0912: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0913: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0914: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0915: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0916: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0917: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0918: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0919: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0920: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0921: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0922: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0923: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0924: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0925: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0926: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0927: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0928: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0929: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0930: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0931: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0932: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0933: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0934: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0935: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0936: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0937: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0938: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0939: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0940: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0941: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0942: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0943: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0944: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0945: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0946: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0947: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0948: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0949: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0950: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0951: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0952: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0953: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0954: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0955: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0956: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0957: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0958: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0959: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0960: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0961: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0962: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0963: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0964: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0965: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0966: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0967: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0968: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0969: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0970: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0971: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0972: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0973: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0974: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0975: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0976: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0977: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0978: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0979: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 0980: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.
+Baris 0981: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras.
+Baris 0982: Thread adalah unit eksekusi terkecil dalam sebuah proses.
+Baris 0983: Multithreading memungkinkan beberapa thread berjalan secara bersamaan.
+Baris 0984: Rust menjamin keamanan memori tanpa garbage collector.
+Baris 0985: Channel digunakan untuk komunikasi antar-thread di Rust.
+Baris 0986: Arc dan Mutex digunakan untuk berbagi data antar-thread dengan aman.
+Baris 0987: Paralelisme memanfaatkan banyak core CPU secara bersamaan.
+Baris 0988: Konkurensi adalah kemampuan menangani banyak tugas sekaligus.
+Baris 0989: Thread pool mengurangi overhead pembuatan thread berulang.
+Baris 0990: Deadlock terjadi ketika dua thread saling menunggu satu sama lain.
+Baris 0991: Race condition muncul saat dua thread mengakses data yang sama tanpa sinkronisasi.
+Baris 0992: Scheduler OS menentukan thread mana yang mendapat giliran eksekusi.
+Baris 0993: Context switch adalah proses menyimpan dan memulihkan state sebuah thread.
+Baris 0994: Kernel thread dikelola langsung oleh sistem operasi.
+Baris 0995: User thread dikelola oleh library threading di ruang pengguna.
+Baris 0996: Semafor adalah mekanisme sinkronisasi primitif dalam sistem operasi.
+Baris 0997: Mutex (Mutual Exclusion) mencegah lebih dari satu thread mengakses resource kritis.
+Baris 0998: Spinlock adalah bentuk mutex yang terus-menerus memeriksa kondisi kunci.
+Baris 0999: Barrier menyinkronkan sekelompok thread agar semua tiba di titik yang sama.
+Baris 1000: Atomic operation adalah operasi yang tidak dapat diinterupsi di tengah jalan.

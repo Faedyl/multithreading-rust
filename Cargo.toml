@@ -1,0 +1,16 @@
+[package]
+name    = "kasus2-multithreading"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "basic"
+path = "src/bin/basic.rs"
+
+[[bin]]
+name = "parallel"
+path = "src/bin/parallel.rs"
+
+[[bin]]
+name = "benchmark"
+path = "src/bin/benchmark.rs"
